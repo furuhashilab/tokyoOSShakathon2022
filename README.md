@@ -3,7 +3,7 @@
 
 ## Goal
 以下のマップの実装
-- [ ] 東京都＋関東甲信越エリアのベクトルタイルベースマップ
+- [ ] [東京都＋関東甲信越エリアのベクトルタイルベースマップ](https://github.com/ShogoHirasawa/kanto_vector_map/tree/main/zxy)
 - [ ] 東京都＋関東甲信越エリアの地形ラスタタイル
 - [ ] 東京都＋関東甲信越エリアを含む衛星画像ラスタタイル
 - [x] [東京都の避難所ベクトルタイル](https://github.com/furuhashilab/UNVT_for_Tokyo-to)
