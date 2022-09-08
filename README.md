@@ -15,7 +15,7 @@
 - [x] [東京都の東側を移した衛星画像マップ](https://shogohirasawa.github.io/Tokyo_satellit_map/)
 - [x] [東京都の避難所マップ](https://furuhashilab.github.io/UNVT_for_Tokyo-to/)
 - [ ] 東京都のハザードマップ
-- [ ] 東京都行政界マップ
+- [x] [東京都行政界マップ](https://shogohirasawa.github.io/Tokyo_Administrative-Boundary-Map/)
 
 ## First Stage発表用資料
 https://docs.google.com/presentation/d/1O0Ony67t5NCDkj7a1fPwJMucU31qkEkL63X25kVYf8I/edit?usp=sharing
