@@ -10,8 +10,8 @@
 - [x] [東京都行政界ベクトルタイル](https://github.com/furuhashilab/tokyoOSShakathon2022/tree/main/data/administrative_division/zxy)
 
 ## Hosting
-- [ ] [東京都＋関東甲信越エリアのベクトルタイルベースマップ](https://shogohirasawa.github.io/Kanto_basemap/)
-- [ ] 東京都＋関東甲信越エリアの地形マップ
+- [x] [東京都＋関東甲信越エリアのベクトルタイルベースマップ](https://shogohirasawa.github.io/Kanto_basemap/)
+- [x] [東京都＋関東甲信越エリアの地形マップ](https://shogohirasawa.github.io/Tokyo_Terrain-map/)
 - [x] [東京都の東側を移した衛星画像マップ](https://shogohirasawa.github.io/Tokyo_satellit_map/)
 - [x] [東京都の避難所マップ](https://furuhashilab.github.io/UNVT_for_Tokyo-to/)
 - [ ] 東京都のハザードマップ
