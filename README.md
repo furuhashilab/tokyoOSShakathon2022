@@ -8,3 +8,7 @@
 - [x] [東京都の避難所ベクトルタイル](https://github.com/furuhashilab/UNVT_for_Tokyo-to)
 - [ ] 東京都のハザードマップベクトルタイル
 - [x] [東京都行政界ベクトルタイル](https://github.com/furuhashilab/tokyoOSShakathon2022/tree/main/data/administrative_division/zxy)
+
+## First Stage発表用資料
+https://docs.google.com/presentation/d/1O0Ony67t5NCDkj7a1fPwJMucU31qkEkL63X25kVYf8I/edit?usp=sharing
+
